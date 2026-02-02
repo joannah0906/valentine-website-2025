@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Faye...",
+    valentineName: "Angela Faye",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 👭", // The big question!
+            text: "Two celebrations coming up, one question — can I spend it with you?”👭", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -57,11 +57,11 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#C7D9FF",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#E3CCFF",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#6B5BFF",     // Button color (should stand out against the background)
-        buttonHover: "#8579FF",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#2B2B3A"             // Text color (make sure it's readable!)
+        backgroundStart: "#c7d9ff",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#e3ccff",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#6b5bff",     // Button color (should stand out against the background)
+        buttonHover: "#8579ff",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#2b2b3a"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
